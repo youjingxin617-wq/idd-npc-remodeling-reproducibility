@@ -1,0 +1,25 @@
+geo_accession,title,source_name,characteristics_1_individual,characteristics_2_thompson.grade,characteristics_3_tissue,characteristics_4_batch,tissue,thompson_grade,degeneration_group,use_for_low_high
+GSM1725781,Donor1_IVD1_NP,Isolated cells,donor 1,III,Nucleus pulposus,1,Nucleus pulposus,III,intermediate,FALSE
+GSM1725783,Donor1_IVD2_NP,Isolated cells,donor 1,IV,Nucleus pulposus,1,Nucleus pulposus,IV,high,TRUE
+GSM1725785,Donor2_IVD1_NP,Isolated cells,donor 2,III,Nucleus pulposus,1,Nucleus pulposus,III,intermediate,FALSE
+GSM1725787,Donor2_IVD2_NP,Isolated cells,donor 2,IV,Nucleus pulposus,1,Nucleus pulposus,IV,high,TRUE
+GSM1725789,Donor3_IVD1_NP,Isolated cells,donor 3,IV,Nucleus pulposus,1,Nucleus pulposus,IV,high,TRUE
+GSM1725791,Donor3_IVD2_NP,Isolated cells,donor 3,V,Nucleus pulposus,1,Nucleus pulposus,V,high,TRUE
+GSM1725793,Donor4_IVD1_NP,Isolated cells,donor 4,IV,Nucleus pulposus,1,Nucleus pulposus,IV,high,TRUE
+GSM1725795,Donor4_IVD2_NP,Isolated cells,donor 4,V,Nucleus pulposus,1,Nucleus pulposus,V,high,TRUE
+GSM1725797,Donor5_IVD1_NP,Isolated cells,donor 5,III,Nucleus pulposus,1,Nucleus pulposus,III,intermediate,FALSE
+GSM1725799,Donor5_IVD2_NP,Isolated cells,donor 5,IV,Nucleus pulposus,1,Nucleus pulposus,IV,high,TRUE
+GSM1725801,Donor6_IVD1_NP,Isolated cells,donor 6,I,Nucleus pulposus,1,Nucleus pulposus,I,low,TRUE
+GSM1725803,Donor6_IVD2_NP,Isolated cells,donor 6,II,Nucleus pulposus,1,Nucleus pulposus,II,low,TRUE
+GSM1725805,Donor7_IVD1_NP,Isolated cells,donor 7,V,Nucleus pulposus,1,Nucleus pulposus,V,high,TRUE
+GSM1725807,Donor8_IVD1_NP,Isolated cells,donor 8,II,Nucleus pulposus,1,Nucleus pulposus,II,low,TRUE
+GSM1725809,Donor9_IVD1_NP,Isolated cells,donor 9,V,Nucleus pulposus,1,Nucleus pulposus,V,high,TRUE
+GSM1725811,Donor11_IVD1_NP,Isolated cells,donor 11,I,Nucleus pulposus,1,Nucleus pulposus,I,low,TRUE
+GSM1725812,Donor70_IVD1_NP,Isolated cells,donor 70,I-II,Nucleus pulposus,2,Nucleus pulposus,I-II,low,TRUE
+GSM1725815,Donor81_IVD1_NP,Isolated cells,donor 81,I,Nucleus pulposus,2,Nucleus pulposus,I,low,TRUE
+GSM1725816,Donor100_IVD1_NP,Isolated cells,donor 100,III,Nucleus pulposus,3,Nucleus pulposus,III,intermediate,FALSE
+GSM1725818,Donor106_IVD1_NP,Isolated cells,donor 106,IV,Nucleus pulposus,3,Nucleus pulposus,IV,high,TRUE
+GSM1725820,Donor136_IVD1_NP,Isolated cells,donor 136,III,Nucleus pulposus,3,Nucleus pulposus,III,intermediate,FALSE
+GSM1725822,Donor147_IVD1_NP,Isolated cells,donor 147,I,Nucleus pulposus,3,Nucleus pulposus,I,low,TRUE
+GSM1725824,Donor172_IVD1_NP,Isolated cells,donor 172,III,Nucleus pulposus,3,Nucleus pulposus,III,intermediate,FALSE
+GSM1725826,Donor246_IVD1_NP,Isolated cells,donor 246,I-II,Nucleus pulposus,3,Nucleus pulposus,I-II,low,TRUE

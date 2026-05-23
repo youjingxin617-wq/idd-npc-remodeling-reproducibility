@@ -1,0 +1,7 @@
+thompson_grade,degeneration_group,use_for_low_high,n
+I,low,TRUE,4
+I-II,low,TRUE,2
+II,low,TRUE,2
+III,intermediate,FALSE,6
+IV,high,TRUE,6
+V,high,TRUE,4

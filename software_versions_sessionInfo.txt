@@ -1,0 +1,42 @@
+Generated: 2026-05-23 14:34:54 
+
+R version 4.4.1 (2024-06-14 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Hong_Kong
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.4.1
+
+
+Selected package versions:
+Seurat : 5.5.0 
+SeuratObject : 5.4.0 
+harmony : 2.0.3 
+tidyverse : 2.0.0 
+patchwork : 1.3.2 
+pheatmap : 1.0.13 
+httr : 1.4.8 
+jsonlite : 2.0.0 
+SingleCellExperiment : 1.28.1 
+slingshot : 2.14.0 
+tradeSeq : 1.20.0 
+scater : 1.34.1 
+CellChat : 2.2.0.9001 
+igraph : 2.3.1 
+ggrepel : 0.9.8 

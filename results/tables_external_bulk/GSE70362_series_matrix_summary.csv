@@ -1,0 +1,2 @@
+gse,n_features,n_samples,min_expr,median_expr,max_expr,pheno_columns
+GSE70362,18989,48,0.485262709,3.1233032665,14.57149248,geo_accession;title;source_name;characteristics_1_individual;characteristics_2_thompson.grade;characteristics_3_tissue;characteristics_4_batch

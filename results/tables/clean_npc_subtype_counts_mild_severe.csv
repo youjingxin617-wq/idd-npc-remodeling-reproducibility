@@ -1,0 +1,15 @@
+npc_subtype_v1,article_group,n_cells
+ECM/Adh-like NPC,mild,1258
+ECM/Adh-like NPC,severe,537
+Fibro-NPC,mild,629
+Fibro-NPC,severe,704
+Fibro/Reg-like NPC,mild,396
+Fibro/Reg-like NPC,severe,374
+Hom/Reg-like NPC,mild,1885
+Hom/Reg-like NPC,severe,327
+Homeostatic NPC,mild,1223
+Homeostatic NPC,severe,362
+Hypertrophic-like NPC,mild,38
+Hypertrophic-like NPC,severe,28
+Inflammatory Eff-NPC,mild,380
+Inflammatory Eff-NPC,severe,104

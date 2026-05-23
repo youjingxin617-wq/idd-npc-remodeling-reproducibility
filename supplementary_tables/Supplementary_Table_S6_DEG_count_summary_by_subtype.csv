@@ -1,0 +1,15 @@
+npc_subtype_final,direction,n_tested,n_sig
+ECM/Adh-NPCs,down_in_severe,422,22
+ECM/Adh-NPCs,up_in_severe,308,51
+Eff-NPCs,down_in_severe,1456,28
+Eff-NPCs,up_in_severe,992,11
+Fibro-NPCs,down_in_severe,434,16
+Fibro-NPCs,up_in_severe,297,46
+Fibro-reg NPCs,down_in_severe,1937,108
+Fibro-reg NPCs,up_in_severe,1209,62
+Hom-NPCs,down_in_severe,1155,91
+Hom-NPCs,up_in_severe,690,96
+Hom/Reg-like NPCs,down_in_severe,1752,140
+Hom/Reg-like NPCs,up_in_severe,1155,103
+Ht-NPCs,down_in_severe,1468,1
+Ht-NPCs,up_in_severe,837,2

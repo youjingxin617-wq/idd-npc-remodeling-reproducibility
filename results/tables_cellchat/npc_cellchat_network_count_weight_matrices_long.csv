@@ -1,0 +1,295 @@
+source,target,value,group,metric
+ECM/Adh-NPCs,ECM/Adh-NPCs,0,mild,count
+Hom-NPCs,ECM/Adh-NPCs,2,mild,count
+Eff-NPCs,ECM/Adh-NPCs,3,mild,count
+Ht-NPCs,ECM/Adh-NPCs,1,mild,count
+Fibro-NPCs,ECM/Adh-NPCs,2,mild,count
+Fibro-reg NPCs,ECM/Adh-NPCs,5,mild,count
+Hom/Reg-like NPCs,ECM/Adh-NPCs,3,mild,count
+ECM/Adh-NPCs,Hom-NPCs,3,mild,count
+Hom-NPCs,Hom-NPCs,3,mild,count
+Eff-NPCs,Hom-NPCs,7,mild,count
+Ht-NPCs,Hom-NPCs,2,mild,count
+Fibro-NPCs,Hom-NPCs,14,mild,count
+Fibro-reg NPCs,Hom-NPCs,22,mild,count
+Hom/Reg-like NPCs,Hom-NPCs,12,mild,count
+ECM/Adh-NPCs,Eff-NPCs,13,mild,count
+Hom-NPCs,Eff-NPCs,10,mild,count
+Eff-NPCs,Eff-NPCs,16,mild,count
+Ht-NPCs,Eff-NPCs,13,mild,count
+Fibro-NPCs,Eff-NPCs,20,mild,count
+Fibro-reg NPCs,Eff-NPCs,38,mild,count
+Hom/Reg-like NPCs,Eff-NPCs,25,mild,count
+ECM/Adh-NPCs,Ht-NPCs,0,mild,count
+Hom-NPCs,Ht-NPCs,2,mild,count
+Eff-NPCs,Ht-NPCs,7,mild,count
+Ht-NPCs,Ht-NPCs,3,mild,count
+Fibro-NPCs,Ht-NPCs,9,mild,count
+Fibro-reg NPCs,Ht-NPCs,19,mild,count
+Hom/Reg-like NPCs,Ht-NPCs,10,mild,count
+ECM/Adh-NPCs,Fibro-NPCs,5,mild,count
+Hom-NPCs,Fibro-NPCs,6,mild,count
+Eff-NPCs,Fibro-NPCs,6,mild,count
+Ht-NPCs,Fibro-NPCs,5,mild,count
+Fibro-NPCs,Fibro-NPCs,7,mild,count
+Fibro-reg NPCs,Fibro-NPCs,15,mild,count
+Hom/Reg-like NPCs,Fibro-NPCs,7,mild,count
+ECM/Adh-NPCs,Fibro-reg NPCs,28,mild,count
+Hom-NPCs,Fibro-reg NPCs,25,mild,count
+Eff-NPCs,Fibro-reg NPCs,41,mild,count
+Ht-NPCs,Fibro-reg NPCs,39,mild,count
+Fibro-NPCs,Fibro-reg NPCs,40,mild,count
+Fibro-reg NPCs,Fibro-reg NPCs,68,mild,count
+Hom/Reg-like NPCs,Fibro-reg NPCs,49,mild,count
+ECM/Adh-NPCs,Hom/Reg-like NPCs,16,mild,count
+Hom-NPCs,Hom/Reg-like NPCs,14,mild,count
+Eff-NPCs,Hom/Reg-like NPCs,16,mild,count
+Ht-NPCs,Hom/Reg-like NPCs,16,mild,count
+Fibro-NPCs,Hom/Reg-like NPCs,21,mild,count
+Fibro-reg NPCs,Hom/Reg-like NPCs,41,mild,count
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,25,mild,count
+ECM/Adh-NPCs,ECM/Adh-NPCs,1,severe,count
+Hom-NPCs,ECM/Adh-NPCs,0,severe,count
+Eff-NPCs,ECM/Adh-NPCs,0,severe,count
+Ht-NPCs,ECM/Adh-NPCs,3,severe,count
+Fibro-NPCs,ECM/Adh-NPCs,0,severe,count
+Fibro-reg NPCs,ECM/Adh-NPCs,4,severe,count
+Hom/Reg-like NPCs,ECM/Adh-NPCs,3,severe,count
+ECM/Adh-NPCs,Hom-NPCs,6,severe,count
+Hom-NPCs,Hom-NPCs,1,severe,count
+Eff-NPCs,Hom-NPCs,3,severe,count
+Ht-NPCs,Hom-NPCs,6,severe,count
+Fibro-NPCs,Hom-NPCs,11,severe,count
+Fibro-reg NPCs,Hom-NPCs,19,severe,count
+Hom/Reg-like NPCs,Hom-NPCs,10,severe,count
+ECM/Adh-NPCs,Eff-NPCs,6,severe,count
+Hom-NPCs,Eff-NPCs,4,severe,count
+Eff-NPCs,Eff-NPCs,4,severe,count
+Ht-NPCs,Eff-NPCs,14,severe,count
+Fibro-NPCs,Eff-NPCs,11,severe,count
+Fibro-reg NPCs,Eff-NPCs,27,severe,count
+Hom/Reg-like NPCs,Eff-NPCs,13,severe,count
+ECM/Adh-NPCs,Ht-NPCs,4,severe,count
+Hom-NPCs,Ht-NPCs,0,severe,count
+Eff-NPCs,Ht-NPCs,2,severe,count
+Ht-NPCs,Ht-NPCs,6,severe,count
+Fibro-NPCs,Ht-NPCs,6,severe,count
+Fibro-reg NPCs,Ht-NPCs,15,severe,count
+Hom/Reg-like NPCs,Ht-NPCs,8,severe,count
+ECM/Adh-NPCs,Fibro-NPCs,2,severe,count
+Hom-NPCs,Fibro-NPCs,1,severe,count
+Eff-NPCs,Fibro-NPCs,1,severe,count
+Ht-NPCs,Fibro-NPCs,4,severe,count
+Fibro-NPCs,Fibro-NPCs,3,severe,count
+Fibro-reg NPCs,Fibro-NPCs,4,severe,count
+Hom/Reg-like NPCs,Fibro-NPCs,4,severe,count
+ECM/Adh-NPCs,Fibro-reg NPCs,20,severe,count
+Hom-NPCs,Fibro-reg NPCs,12,severe,count
+Eff-NPCs,Fibro-reg NPCs,18,severe,count
+Ht-NPCs,Fibro-reg NPCs,29,severe,count
+Fibro-NPCs,Fibro-reg NPCs,25,severe,count
+Fibro-reg NPCs,Fibro-reg NPCs,56,severe,count
+Hom/Reg-like NPCs,Fibro-reg NPCs,31,severe,count
+ECM/Adh-NPCs,Hom/Reg-like NPCs,13,severe,count
+Hom-NPCs,Hom/Reg-like NPCs,9,severe,count
+Eff-NPCs,Hom/Reg-like NPCs,10,severe,count
+Ht-NPCs,Hom/Reg-like NPCs,24,severe,count
+Fibro-NPCs,Hom/Reg-like NPCs,23,severe,count
+Fibro-reg NPCs,Hom/Reg-like NPCs,48,severe,count
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,25,severe,count
+ECM/Adh-NPCs,ECM/Adh-NPCs,1,severe_minus_mild,count_delta
+Hom-NPCs,ECM/Adh-NPCs,-2,severe_minus_mild,count_delta
+Eff-NPCs,ECM/Adh-NPCs,-3,severe_minus_mild,count_delta
+Ht-NPCs,ECM/Adh-NPCs,2,severe_minus_mild,count_delta
+Fibro-NPCs,ECM/Adh-NPCs,-2,severe_minus_mild,count_delta
+Fibro-reg NPCs,ECM/Adh-NPCs,-1,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,ECM/Adh-NPCs,0,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Hom-NPCs,3,severe_minus_mild,count_delta
+Hom-NPCs,Hom-NPCs,-2,severe_minus_mild,count_delta
+Eff-NPCs,Hom-NPCs,-4,severe_minus_mild,count_delta
+Ht-NPCs,Hom-NPCs,4,severe_minus_mild,count_delta
+Fibro-NPCs,Hom-NPCs,-3,severe_minus_mild,count_delta
+Fibro-reg NPCs,Hom-NPCs,-3,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Hom-NPCs,-2,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Eff-NPCs,-7,severe_minus_mild,count_delta
+Hom-NPCs,Eff-NPCs,-6,severe_minus_mild,count_delta
+Eff-NPCs,Eff-NPCs,-12,severe_minus_mild,count_delta
+Ht-NPCs,Eff-NPCs,1,severe_minus_mild,count_delta
+Fibro-NPCs,Eff-NPCs,-9,severe_minus_mild,count_delta
+Fibro-reg NPCs,Eff-NPCs,-11,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Eff-NPCs,-12,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Ht-NPCs,4,severe_minus_mild,count_delta
+Hom-NPCs,Ht-NPCs,-2,severe_minus_mild,count_delta
+Eff-NPCs,Ht-NPCs,-5,severe_minus_mild,count_delta
+Ht-NPCs,Ht-NPCs,3,severe_minus_mild,count_delta
+Fibro-NPCs,Ht-NPCs,-3,severe_minus_mild,count_delta
+Fibro-reg NPCs,Ht-NPCs,-4,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Ht-NPCs,-2,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Fibro-NPCs,-3,severe_minus_mild,count_delta
+Hom-NPCs,Fibro-NPCs,-5,severe_minus_mild,count_delta
+Eff-NPCs,Fibro-NPCs,-5,severe_minus_mild,count_delta
+Ht-NPCs,Fibro-NPCs,-1,severe_minus_mild,count_delta
+Fibro-NPCs,Fibro-NPCs,-4,severe_minus_mild,count_delta
+Fibro-reg NPCs,Fibro-NPCs,-11,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Fibro-NPCs,-3,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Fibro-reg NPCs,-8,severe_minus_mild,count_delta
+Hom-NPCs,Fibro-reg NPCs,-13,severe_minus_mild,count_delta
+Eff-NPCs,Fibro-reg NPCs,-23,severe_minus_mild,count_delta
+Ht-NPCs,Fibro-reg NPCs,-10,severe_minus_mild,count_delta
+Fibro-NPCs,Fibro-reg NPCs,-15,severe_minus_mild,count_delta
+Fibro-reg NPCs,Fibro-reg NPCs,-12,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Fibro-reg NPCs,-18,severe_minus_mild,count_delta
+ECM/Adh-NPCs,Hom/Reg-like NPCs,-3,severe_minus_mild,count_delta
+Hom-NPCs,Hom/Reg-like NPCs,-5,severe_minus_mild,count_delta
+Eff-NPCs,Hom/Reg-like NPCs,-6,severe_minus_mild,count_delta
+Ht-NPCs,Hom/Reg-like NPCs,8,severe_minus_mild,count_delta
+Fibro-NPCs,Hom/Reg-like NPCs,2,severe_minus_mild,count_delta
+Fibro-reg NPCs,Hom/Reg-like NPCs,7,severe_minus_mild,count_delta
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,0,severe_minus_mild,count_delta
+ECM/Adh-NPCs,ECM/Adh-NPCs,0,mild,weight
+Hom-NPCs,ECM/Adh-NPCs,2.066774049615128e-6,mild,weight
+Eff-NPCs,ECM/Adh-NPCs,7.538490164882541e-6,mild,weight
+Ht-NPCs,ECM/Adh-NPCs,1.152588369420047e-6,mild,weight
+Fibro-NPCs,ECM/Adh-NPCs,1.0075434900974183e-4,mild,weight
+Fibro-reg NPCs,ECM/Adh-NPCs,6.370964722645382e-6,mild,weight
+Hom/Reg-like NPCs,ECM/Adh-NPCs,3.8058239291036795e-5,mild,weight
+ECM/Adh-NPCs,Hom-NPCs,0.005006615120540958,mild,weight
+Hom-NPCs,Hom-NPCs,0.0031805186891707055,mild,weight
+Eff-NPCs,Hom-NPCs,8.129867560001995e-4,mild,weight
+Ht-NPCs,Hom-NPCs,3.075807211238729e-5,mild,weight
+Fibro-NPCs,Hom-NPCs,0.007393571731045312,mild,weight
+Fibro-reg NPCs,Hom-NPCs,0.004263210877130803,mild,weight
+Hom/Reg-like NPCs,Hom-NPCs,0.007449640139952247,mild,weight
+ECM/Adh-NPCs,Eff-NPCs,0.007257095052896628,mild,weight
+Hom-NPCs,Eff-NPCs,0.002828126748238054,mild,weight
+Eff-NPCs,Eff-NPCs,0.0011095037673637125,mild,weight
+Ht-NPCs,Eff-NPCs,1.1728512033676036e-4,mild,weight
+Fibro-NPCs,Eff-NPCs,0.006585825947051262,mild,weight
+Fibro-reg NPCs,Eff-NPCs,0.0037770837998224458,mild,weight
+Hom/Reg-like NPCs,Eff-NPCs,0.008242959123365262,mild,weight
+ECM/Adh-NPCs,Ht-NPCs,0,mild,weight
+Hom-NPCs,Ht-NPCs,6.296588428398641e-7,mild,weight
+Eff-NPCs,Ht-NPCs,2.303867457422907e-6,mild,weight
+Ht-NPCs,Ht-NPCs,1.2029353735876845e-7,mild,weight
+Fibro-NPCs,Ht-NPCs,1.2839788248179222e-4,mild,weight
+Fibro-reg NPCs,Ht-NPCs,9.471505890933203e-5,mild,weight
+Hom/Reg-like NPCs,Ht-NPCs,4.1348384813425866e-5,mild,weight
+ECM/Adh-NPCs,Fibro-NPCs,0.004459481435926474,mild,weight
+Hom-NPCs,Fibro-NPCs,0.002879793658737949,mild,weight
+Eff-NPCs,Fibro-NPCs,6.244365002440416e-4,mild,weight
+Ht-NPCs,Fibro-NPCs,7.273233681488578e-5,mild,weight
+Fibro-NPCs,Fibro-NPCs,0.0038240800947462812,mild,weight
+Fibro-reg NPCs,Fibro-NPCs,0.002498647254184985,mild,weight
+Hom/Reg-like NPCs,Fibro-NPCs,0.00432267160431854,mild,weight
+ECM/Adh-NPCs,Fibro-reg NPCs,0.008431776049873994,mild,weight
+Hom-NPCs,Fibro-reg NPCs,0.004530917885378251,mild,weight
+Eff-NPCs,Fibro-reg NPCs,0.0014631756061479033,mild,weight
+Ht-NPCs,Fibro-reg NPCs,1.8928137660044638e-4,mild,weight
+Fibro-NPCs,Fibro-reg NPCs,0.008456594323469492,mild,weight
+Fibro-reg NPCs,Fibro-reg NPCs,0.004791680189268921,mild,weight
+Hom/Reg-like NPCs,Fibro-reg NPCs,0.011417088124553151,mild,weight
+ECM/Adh-NPCs,Hom/Reg-like NPCs,0.0231516269050813,mild,weight
+Hom-NPCs,Hom/Reg-like NPCs,0.01139510024729087,mild,weight
+Eff-NPCs,Hom/Reg-like NPCs,0.0028945451947457517,mild,weight
+Ht-NPCs,Hom/Reg-like NPCs,2.9834204593562753e-4,mild,weight
+Fibro-NPCs,Hom/Reg-like NPCs,0.020571712963470632,mild,weight
+Fibro-reg NPCs,Hom/Reg-like NPCs,0.013268558301018753,mild,weight
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,0.028255772020248513,mild,weight
+ECM/Adh-NPCs,ECM/Adh-NPCs,1.4305562715321627e-4,severe,weight
+Hom-NPCs,ECM/Adh-NPCs,0,severe,weight
+Eff-NPCs,ECM/Adh-NPCs,0,severe,weight
+Ht-NPCs,ECM/Adh-NPCs,5.994753171355741e-6,severe,weight
+Fibro-NPCs,ECM/Adh-NPCs,0,severe,weight
+Fibro-reg NPCs,ECM/Adh-NPCs,5.1569833890477564e-5,severe,weight
+Hom/Reg-like NPCs,ECM/Adh-NPCs,1.830836108203886e-4,severe,weight
+ECM/Adh-NPCs,Hom-NPCs,0.005078840292452158,severe,weight
+Hom-NPCs,Hom-NPCs,0.0010123587889494922,severe,weight
+Eff-NPCs,Hom-NPCs,4.630985138222338e-4,severe,weight
+Ht-NPCs,Hom-NPCs,1.78343503327663e-4,severe,weight
+Fibro-NPCs,Hom-NPCs,0.014015875933772015,severe,weight
+Fibro-reg NPCs,Hom-NPCs,0.008166303733633433,severe,weight
+Hom/Reg-like NPCs,Hom-NPCs,0.0037867146725461087,severe,weight
+ECM/Adh-NPCs,Eff-NPCs,0.002336056344486305,severe,weight
+Hom-NPCs,Eff-NPCs,6.23075120191085e-4,severe,weight
+Eff-NPCs,Eff-NPCs,2.2906153157379057e-4,severe,weight
+Ht-NPCs,Eff-NPCs,1.3733880991389672e-4,severe,weight
+Fibro-NPCs,Eff-NPCs,0.0055230053480409555,severe,weight
+Fibro-reg NPCs,Eff-NPCs,0.0032101699857852786,severe,weight
+Hom/Reg-like NPCs,Eff-NPCs,0.0012652519992525303,severe,weight
+ECM/Adh-NPCs,Ht-NPCs,9.309451450622572e-5,severe,weight
+Hom-NPCs,Ht-NPCs,0,severe,weight
+Eff-NPCs,Ht-NPCs,2.17727312744201e-6,severe,weight
+Ht-NPCs,Ht-NPCs,1.0505970116412004e-5,severe,weight
+Fibro-NPCs,Ht-NPCs,5.454771074248077e-4,severe,weight
+Fibro-reg NPCs,Ht-NPCs,2.7545094930159686e-4,severe,weight
+Hom/Reg-like NPCs,Ht-NPCs,9.319703542667693e-5,severe,weight
+ECM/Adh-NPCs,Fibro-NPCs,0.001866707192820924,severe,weight
+Hom-NPCs,Fibro-NPCs,0.00232717264598291,severe,weight
+Eff-NPCs,Fibro-NPCs,9.868034673659419e-6,severe,weight
+Ht-NPCs,Fibro-NPCs,6.65451287427908e-5,severe,weight
+Fibro-NPCs,Fibro-NPCs,0.005369132414205105,severe,weight
+Fibro-reg NPCs,Fibro-NPCs,0.0033616665933023718,severe,weight
+Hom/Reg-like NPCs,Fibro-NPCs,0.002517898856063528,severe,weight
+ECM/Adh-NPCs,Fibro-reg NPCs,0.011843874625815341,severe,weight
+Hom-NPCs,Fibro-reg NPCs,0.004720552103603182,severe,weight
+Eff-NPCs,Fibro-reg NPCs,0.0013913438189904666,severe,weight
+Ht-NPCs,Fibro-reg NPCs,9.21831219010155e-4,severe,weight
+Fibro-NPCs,Fibro-reg NPCs,0.03219490859704359,severe,weight
+Fibro-reg NPCs,Fibro-reg NPCs,0.017374887906023997,severe,weight
+Hom/Reg-like NPCs,Fibro-reg NPCs,0.00843110906469192,severe,weight
+ECM/Adh-NPCs,Hom/Reg-like NPCs,0.00888970438781576,severe,weight
+Hom-NPCs,Hom/Reg-like NPCs,0.0032421991037925005,severe,weight
+Eff-NPCs,Hom/Reg-like NPCs,8.498010151993491e-4,severe,weight
+Ht-NPCs,Hom/Reg-like NPCs,6.254116446352857e-4,severe,weight
+Fibro-NPCs,Hom/Reg-like NPCs,0.02641296951497697,severe,weight
+Fibro-reg NPCs,Hom/Reg-like NPCs,0.014930313528084438,severe,weight
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,0.0063599761082515065,severe,weight
+ECM/Adh-NPCs,ECM/Adh-NPCs,1.4305562715321627e-4,severe_minus_mild,weight_delta
+Hom-NPCs,ECM/Adh-NPCs,-2.066774049615128e-6,severe_minus_mild,weight_delta
+Eff-NPCs,ECM/Adh-NPCs,-7.538490164882541e-6,severe_minus_mild,weight_delta
+Ht-NPCs,ECM/Adh-NPCs,4.842164801935694e-6,severe_minus_mild,weight_delta
+Fibro-NPCs,ECM/Adh-NPCs,-1.0075434900974183e-4,severe_minus_mild,weight_delta
+Fibro-reg NPCs,ECM/Adh-NPCs,4.5198869167832186e-5,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,ECM/Adh-NPCs,1.4502537152935181e-4,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Hom-NPCs,7.22251719112001e-5,severe_minus_mild,weight_delta
+Hom-NPCs,Hom-NPCs,-0.0021681599002212133,severe_minus_mild,weight_delta
+Eff-NPCs,Hom-NPCs,-3.4988824217796575e-4,severe_minus_mild,weight_delta
+Ht-NPCs,Hom-NPCs,1.4758543121527572e-4,severe_minus_mild,weight_delta
+Fibro-NPCs,Hom-NPCs,0.006622304202726703,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Hom-NPCs,0.0039030928565026305,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Hom-NPCs,-0.0036629254674061386,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Eff-NPCs,-0.0049210387084103226,severe_minus_mild,weight_delta
+Hom-NPCs,Eff-NPCs,-0.002205051628046969,severe_minus_mild,weight_delta
+Eff-NPCs,Eff-NPCs,-8.804422357899219e-4,severe_minus_mild,weight_delta
+Ht-NPCs,Eff-NPCs,2.0053689577136365e-5,severe_minus_mild,weight_delta
+Fibro-NPCs,Eff-NPCs,-0.0010628205990103065,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Eff-NPCs,-5.669138140371672e-4,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Eff-NPCs,-0.006977707124112732,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Ht-NPCs,9.309451450622572e-5,severe_minus_mild,weight_delta
+Hom-NPCs,Ht-NPCs,-6.296588428398641e-7,severe_minus_mild,weight_delta
+Eff-NPCs,Ht-NPCs,-1.2659432998089703e-7,severe_minus_mild,weight_delta
+Ht-NPCs,Ht-NPCs,1.0385676579053236e-5,severe_minus_mild,weight_delta
+Fibro-NPCs,Ht-NPCs,4.170792249430155e-4,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Ht-NPCs,1.807358903922648e-4,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Ht-NPCs,5.184865061325106e-5,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Fibro-NPCs,-0.0025927742431055504,severe_minus_mild,weight_delta
+Hom-NPCs,Fibro-NPCs,-5.526210127550389e-4,severe_minus_mild,weight_delta
+Eff-NPCs,Fibro-NPCs,-6.145684655703822e-4,severe_minus_mild,weight_delta
+Ht-NPCs,Fibro-NPCs,-6.1872080720949815e-6,severe_minus_mild,weight_delta
+Fibro-NPCs,Fibro-NPCs,0.0015450523194588234,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Fibro-NPCs,8.63019339117387e-4,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Fibro-NPCs,-0.0018047727482550118,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Fibro-reg NPCs,0.0034120985759413473,severe_minus_mild,weight_delta
+Hom-NPCs,Fibro-reg NPCs,1.8963421822493047e-4,severe_minus_mild,weight_delta
+Eff-NPCs,Fibro-reg NPCs,-7.183178715743674e-5,severe_minus_mild,weight_delta
+Ht-NPCs,Fibro-reg NPCs,7.325498424097086e-4,severe_minus_mild,weight_delta
+Fibro-NPCs,Fibro-reg NPCs,0.023738314273574097,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Fibro-reg NPCs,0.012583207716755076,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Fibro-reg NPCs,-0.002985979059861232,severe_minus_mild,weight_delta
+ECM/Adh-NPCs,Hom/Reg-like NPCs,-0.01426192251726554,severe_minus_mild,weight_delta
+Hom-NPCs,Hom/Reg-like NPCs,-0.00815290114349837,severe_minus_mild,weight_delta
+Eff-NPCs,Hom/Reg-like NPCs,-0.0020447441795464027,severe_minus_mild,weight_delta
+Ht-NPCs,Hom/Reg-like NPCs,3.2706959869965814e-4,severe_minus_mild,weight_delta
+Fibro-NPCs,Hom/Reg-like NPCs,0.005841256551506337,severe_minus_mild,weight_delta
+Fibro-reg NPCs,Hom/Reg-like NPCs,0.0016617552270656848,severe_minus_mild,weight_delta
+Hom/Reg-like NPCs,Hom/Reg-like NPCs,-0.02189579591199701,severe_minus_mild,weight_delta

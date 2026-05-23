@@ -1,0 +1,8 @@
+npc_cluster,npc_subtype_v1,rationale
+0,Hom/Reg-like NPC,"CHRDL2, FRZB, WIF1, IGF2, CLEC3A suggest homeostatic/regulatory NPC state"
+1,ECM/Adh-like NPC,"PRG4, COL2A1, ACAN, COL11A1, VCAN, FN1 suggest ECM/adhesion NPC state"
+2,Homeostatic NPC,"SCRG1, MGP, C2orf40 and mitochondrial/ribosomal genes suggest homeostatic NPC state"
+3,Fibro-NPC,"POSTN, COL1A1, COL3A1, TNC, COL6A3 suggest fibrotic ECM-rich NPC state"
+4,Fibro/Reg-like NPC,"COL12A1, MMP2, CRTAC1, SOCS3, CDH11 suggest fibro/regulatory ECM state"
+5,Inflammatory Eff-NPC,"CCL20, CXCL2, CHI3L1, CHI3L2, MMP3, SOD2 suggest inflammatory effector NPC state"
+7,Hypertrophic-like NPC,"IBSP, COL10A1, CYTL1, COL2A1, COL11A1 suggest hypertrophic/chondrocyte-like NPC state"

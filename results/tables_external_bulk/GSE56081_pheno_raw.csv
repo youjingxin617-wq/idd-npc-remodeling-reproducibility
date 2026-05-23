@@ -1,0 +1,11 @@
+geo_accession,title,source_name,characteristics_1_tissue,characteristics_2_condition,characteristics_3_idd.related.diseases,characteristics_4_gender,characteristics_5_age,characteristics_6_degeneration.grading,characteristics_7_disc.level
+GSM1354764,Nucleus pulposus_control_1,"Nucleus pulposus tissue,normal",Nucleus pulposus,Control,No,Male,33 years,Grading I,L3-L4
+GSM1354765,Nucleus pulposus_control_2,"Nucleus pulposus tissue,normal",Nucleus pulposus,Control,No,Male,35 years,Grading I,L3-L4
+GSM1354766,Nucleus pulposus_control_3,"Nucleus pulposus tissue,normal",Nucleus pulposus,Control,No,Male,41 years,Grading I,L4-L5
+GSM1354767,Nucleus pulposus_control_4,"Nucleus pulposus tissue,normal",Nucleus pulposus,Control,No,Female,43 years,Grading I,L5-S1
+GSM1354768,Nucleus pulposus_control_5,"Nucleus pulposus tissue,normal",Nucleus pulposus,Control,No,Male,52 years,Grading I,L4-L5
+GSM1354769,Nucleus pulposus_degenerated_1,"Nucleus pulposus tissue,degenerated",Nucleus pulposus,Degenerated,Intervertebral disc herniation,Female,32 years,Grading Ⅴ,L4-L5
+GSM1354770,Nucleus pulposus_degenerated_2,"Nucleus pulposus tissue,degenerated",Nucleus pulposus,Degenerated,Intervertebral disc herniation,Male,38 years,Grading Ⅴ,L3-L4
+GSM1354771,Nucleus pulposus_degenerated_3,"Nucleus pulposus tissue,degenerated",Nucleus pulposus,Degenerated,Intervertebral disc herniation,Male,42 years,Grading Ⅳ,L3-L4
+GSM1354772,Nucleus pulposus_degenerated_4,"Nucleus pulposus tissue,degenerated",Nucleus pulposus,Degenerated,Intervertebral disc herniation,Male,45 years,Grading Ⅴ,L5-S1
+GSM1354773,Nucleus pulposus_degenerated_5,"Nucleus pulposus tissue,degenerated",Nucleus pulposus,Degenerated,Intervertebral disc herniation,Female,27 years,Grading Ⅳ,L4-L5

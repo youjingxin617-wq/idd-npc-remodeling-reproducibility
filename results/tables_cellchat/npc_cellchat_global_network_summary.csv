@@ -1,0 +1,3 @@
+group,total_interaction_count,total_interaction_weight,mean_interaction_weight
+mild,754,0.216276651614733,0.004601630885419851
+severe,549,0.2011369747564113,0.004469710550142473

@@ -1,0 +1,19 @@
+sample_id,grade,grade_num,article_group,source_whole_cluster,n_cells
+Sample3,Grade II,2,mild,1,131
+Sample3,Grade II,2,mild,3,116
+Sample3,Grade II,2,mild,4,510
+Sample4,Grade II,2,mild,1,41
+Sample4,Grade II,2,mild,3,4
+Sample4,Grade II,2,mild,4,11
+Sample5,Grade III,3,mild,1,1864
+Sample5,Grade III,3,mild,3,286
+Sample5,Grade III,3,mild,4,470
+Sample6,Grade III,3,mild,1,1361
+Sample6,Grade III,3,mild,3,569
+Sample6,Grade III,3,mild,4,528
+Sample7,Grade IV,4,severe,1,578
+Sample7,Grade IV,4,severe,3,520
+Sample7,Grade IV,4,severe,4,410
+Sample8,Grade IV,4,severe,1,207
+Sample8,Grade IV,4,severe,3,564
+Sample8,Grade IV,4,severe,4,231

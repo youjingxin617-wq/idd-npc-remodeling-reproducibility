@@ -1,0 +1,9 @@
+geo_accession,title,source_name,characteristics_1_age,characteristics_2_gender,characteristics_3_organ,characteristics_4_tissue,characteristics_5_tissue.type,tissue,degeneration_group
+GSM4429807,C74AF: AF of patient C74,AF of patient C74,18,male,intervertebral disc,annulus fibrosus,non-degenerated,Annulus fibrosus,young_non_degenerated
+GSM4429808,C74NP: NP of patient C74,NP of patient C74,18,male,intervertebral disc,nucleus pulposus,non-degenerated,Nucleus pulposus,young_non_degenerated
+GSM4429809,C88AF: AF of patient C88,AF of patient C88,16,male,intervertebral disc,annulus fibrosus,non-degenerated,Annulus fibrosus,young_non_degenerated
+GSM4429810,C88NP: NP of patient C88,NP of patient C88,16,male,intervertebral disc,nucleus pulposus,non-degenerated,Nucleus pulposus,young_non_degenerated
+GSM4429811,D40AF: AF of patient D40,AF of patient D40,63,female,intervertebral disc,annulus fibrosus,degenerated,Annulus fibrosus,aged_degenerated
+GSM4429812,D40NP: NP of patient D40,NP of patient D40,63,female,intervertebral disc,nucleus pulposus,degenerated,Nucleus pulposus,aged_degenerated
+GSM4429813,D45AF: AF of patient D45,AF of patient D45,48,male,intervertebral disc,annulus fibrosus,degenerated,Annulus fibrosus,aged_degenerated
+GSM4429814,D45NP: NP of patient D45,NP of patient D45,48,male,intervertebral disc,nucleus pulposus,degenerated,Nucleus pulposus,aged_degenerated

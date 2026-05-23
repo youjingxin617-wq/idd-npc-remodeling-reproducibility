@@ -1,0 +1,4 @@
+module,auc_high_when_score_higher,auc_direction_adjusted,direction
+Fibrotic_remodeling,0.575,0.575,higher_score_in_high
+Iron_ferroptosis_response,0.85,0.85,higher_score_in_high
+Matrix_homeostasis,0.125,0.875,lower_score_in_high

@@ -1,0 +1,13 @@
+geo_accession,module,score,genes_used,degeneration_group
+GSM4429808,Matrix_homeostasis,-0.8193713035223278,ACAN;COL2A1;COL6A2;BGN,young_non_degenerated
+GSM4429810,Matrix_homeostasis,0.8637141236964078,ACAN;COL2A1;COL6A2;BGN,young_non_degenerated
+GSM4429812,Matrix_homeostasis,-0.0918676321670528,ACAN;COL2A1;COL6A2;BGN,aged_degenerated
+GSM4429814,Matrix_homeostasis,0.04752481199297114,ACAN;COL2A1;COL6A2;BGN,aged_degenerated
+GSM4429808,Iron_ferroptosis_response,-0.45416188454509093,GPX4;SLC39A14;FTH1;FTL;SLC7A11,young_non_degenerated
+GSM4429810,Iron_ferroptosis_response,0.053612023728946426,GPX4;SLC39A14;FTH1;FTL;SLC7A11,young_non_degenerated
+GSM4429812,Iron_ferroptosis_response,0.21831074531384514,GPX4;SLC39A14;FTH1;FTL;SLC7A11,aged_degenerated
+GSM4429814,Iron_ferroptosis_response,0.1822391155022989,GPX4;SLC39A14;FTH1;FTL;SLC7A11,aged_degenerated
+GSM4429808,Fibrotic_remodeling,-0.6941938154067333,COL1A1;COL3A1;POSTN;ADAMTS5;MMP13;SPARC,young_non_degenerated
+GSM4429810,Fibrotic_remodeling,-0.655092267945675,COL1A1;COL3A1;POSTN;ADAMTS5;MMP13;SPARC,young_non_degenerated
+GSM4429812,Fibrotic_remodeling,0.2232861853257133,COL1A1;COL3A1;POSTN;ADAMTS5;MMP13;SPARC,aged_degenerated
+GSM4429814,Fibrotic_remodeling,1.1259998980266959,COL1A1;COL3A1;POSTN;ADAMTS5;MMP13;SPARC,aged_degenerated

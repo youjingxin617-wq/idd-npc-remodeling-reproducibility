@@ -1,0 +1,17 @@
+data/raw/
+data/processed/
+data/external_bulk/raw/
+data/external_bulk/processed/
+tmp/
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+*.RData
+*.tar
+*.gz
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

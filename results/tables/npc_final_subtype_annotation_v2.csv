@@ -1,0 +1,8 @@
+npc_cluster,npc_subtype_final,key_markers,naming_logic
+0,Hom/Reg-like NPCs,"CHRDL2, FRZB, WIF1, IGF2, CLEC3A","Homeostatic/regulatory matrix signals supported by CHRDL2, FRZB, WIF1, IGF2, and CLEC3A"
+1,ECM/Adh-NPCs,"PRG4, COL2A1, ACAN, COL11A1, VCAN, FN1",ECM structural and adhesion-associated genes; closest to ECM-reg/Adh-NPC state
+2,Hom-NPCs,"SCRG1, MGP, C2orf40, MT1G",Homeostatic NPC markers and low inflammatory/fibrotic signal
+3,Fibro-NPCs,"POSTN, COL1A1, COL3A1, TNC, COL6A3",Strong collagen/fibrotic ECM remodeling signature
+4,Fibro-reg NPCs,"COL12A1, MMP2, CRTAC1, SOCS3, CDH11",Fibro-ECM plus regulatory/stress-response markers
+5,Eff-NPCs,"CCL20, CXCL2, CHI3L1, CHI3L2, MMP3, SOD2","Inflammatory and catabolic effector genes, including MMP3 and cytokine-response genes"
+7,Ht-NPCs,"IBSP, COL10A1, CYTL1, COL2A1, COL11A1",Hypertrophic/chondrocyte-like markers such as IBSP and COL10A1

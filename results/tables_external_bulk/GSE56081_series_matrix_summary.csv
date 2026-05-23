@@ -1,0 +1,2 @@
+gse,n_features,n_samples,min_expr,median_expr,max_expr,pheno_columns
+GSE56081,28502,10,2.376437,6.2627516,17.303217,geo_accession;title;source_name;characteristics_1_tissue;characteristics_2_condition;characteristics_3_idd.related.diseases;characteristics_4_gender;characteristics_5_age;characteristics_6_degeneration.grading;characteristics_7_disc.level

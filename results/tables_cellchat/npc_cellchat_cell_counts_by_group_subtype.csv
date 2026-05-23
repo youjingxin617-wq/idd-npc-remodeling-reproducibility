@@ -1,0 +1,15 @@
+article_group,npc_subtype_final,n_cells
+mild,ECM/Adh-NPCs,1258
+mild,Hom-NPCs,1223
+mild,Eff-NPCs,380
+mild,Ht-NPCs,38
+mild,Fibro-NPCs,629
+mild,Fibro-reg NPCs,396
+mild,Hom/Reg-like NPCs,1885
+severe,ECM/Adh-NPCs,537
+severe,Hom-NPCs,362
+severe,Eff-NPCs,104
+severe,Ht-NPCs,28
+severe,Fibro-NPCs,704
+severe,Fibro-reg NPCs,374
+severe,Hom/Reg-like NPCs,327
