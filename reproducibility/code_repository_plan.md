@@ -49,23 +49,16 @@ tmp/
 __pycache__/
 ```
 
-## Suggested Repository Release Before Submission
+## Current Repository Release
 
-Before submission, create either:
+The public GitHub repository has been created:
 
-1. A GitHub repository with scripts and supplementary tables.
-2. A Zenodo DOI linked to the GitHub release.
+https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility
 
-If this is not ready before submission, use conservative wording:
+Current manuscript wording may state that analysis scripts, processed result tables, supplementary tables, and software/session information are available at this repository.
 
-> Analysis scripts and processed result tables will be made available upon reasonable request and will be deposited in a public repository before publication.
-
-Do not write:
-
-> All code is publicly available at ...
-
-until the link exists.
+Optional next step: create a Zenodo DOI linked to a GitHub release after the author team confirms the repository contents.
 
 ## Current Staging Plan
 
-A clean staging folder should be created outside the analysis workspace. It should include scripts, selected result tables, supplementary tables, reproducibility documentation, `README.md`, `.gitignore`, and a license placeholder. It should exclude raw GEO archives, extracted GEO raw folders, RDS files, IDE folders, and cache files.
+A clean public repository folder has been created outside the analysis workspace. It includes scripts, selected result tables, supplementary tables, reproducibility documentation, `README.md`, `.gitignore`, and a license placeholder. It excludes raw GEO archives, extracted GEO raw folders, RDS files, IDE folders, and cache files.

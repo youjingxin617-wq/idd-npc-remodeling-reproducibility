@@ -27,7 +27,7 @@ This folder is a clean pre-publication package for a future GitHub or Zenodo-lin
 
 ## Current Package Check
 
-The repository staging folder currently contains 119 files. Hard-coded local absolute paths were removed from the runnable scripts and repository-facing workflow document. The only remaining placeholders are intentional pre-release items, such as the repository URL and license decision.
+The repository staging folder currently contains 119 files. Hard-coded local absolute paths were removed from the runnable scripts and repository-facing workflow document. The public repository URL has been added to the manuscript and reproducibility documentation. The main remaining pre-release item is the license decision.
 
 ## Exclusion Check
 
@@ -49,5 +49,5 @@ Complete these steps before making the repository public:
 2. Review `README.md` for final title and author-approved wording.
 3. Add a license file after author agreement.
 4. Confirm that all scripts run from relative paths or clearly document required working directory.
-5. Add the final repository URL to the manuscript Data availability or Code availability statement.
-6. Optionally create a Zenodo release DOI after GitHub repository creation.
+5. Confirm the license with all authors.
+6. Optionally create a Zenodo release DOI after author approval.

@@ -48,11 +48,7 @@ For this public-data transcriptomic study, the safest submission strategy is:
 | Slingshot/SCE RDS objects | Large intermediate objects; can be regenerated |
 | Local IDE/cache files | Not reproducibility materials |
 
-## Recommended Wording Before Repository Exists
-
-The datasets analyzed in this study are publicly available from the Gene Expression Omnibus under accession numbers GSE165722, GSE70362, and GSE147383. Ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, and figure-generation code will be deposited in a public repository before publication and are available from the corresponding author upon reasonable request during peer review.
-
-## Recommended Wording After Repository Exists
+## Recommended Wording
 
 The datasets analyzed in this study are publicly available from the Gene Expression Omnibus under accession numbers GSE165722, GSE70362, and GSE147383. Ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, supplementary tables, and software/session information are available at: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility. If a Zenodo DOI is created for the repository release, cite the DOI in the reference list.
 
