@@ -5,6 +5,7 @@
 - [x] Public dataset accession numbers identified: GSE165722, GSE70362, GSE147383.
 - [x] Main analysis scripts are present locally.
 - [x] Main figures are generated and linked to source scripts.
+- [x] Figure 7 has been simplified for the main manuscript, with detailed CellChat outputs moved to Supplementary Figure S1.
 - [x] Supplementary Tables S1-S16 are assembled as CSV files.
 - [x] Supplementary Tables S1-S16 have been combined into one Excel workbook for easier submission.
 - [x] `software_versions_sessionInfo.txt` has been generated.
@@ -39,8 +40,9 @@ For formal journal submission:
 1. Manuscript DOCX.
 2. Main figures as separate high-resolution files if required.
 3. Supplementary tables as CSV or Excel. Current recommended file: `08_BMC_submission/supplementary_tables/Supplementary_Tables_S1_S16.xlsx`.
-4. Data availability statement in the manuscript.
-5. Repository link: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
+4. Supplementary Figure S1 if the journal allows separate supplementary figures.
+5. Data availability statement in the manuscript.
+6. Repository link: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
 
 ## Caution
 

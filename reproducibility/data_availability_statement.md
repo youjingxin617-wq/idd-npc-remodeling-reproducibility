@@ -57,3 +57,7 @@ Instead, provide accession numbers, scripts, and processed result tables.
 - `08_BMC_submission/supplementary_tables/Supplementary_Table_S14_CellChat_centrality_delta_by_subtype.csv`
 - `08_BMC_submission/supplementary_tables/Supplementary_Table_S15_CellChat_top_severe_enhanced_pathways.csv`
 - `08_BMC_submission/supplementary_tables/Supplementary_Table_S16_CellChat_top_severe_enhanced_LR_pairs.csv`
+
+## Files Recommended For Supplementary Figure Upload
+
+- `08_BMC_submission/supplementary_figures/Supplementary_Figure_S1_CellChat_supporting_outputs.png`

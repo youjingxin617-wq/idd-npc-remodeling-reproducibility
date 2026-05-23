@@ -21,6 +21,7 @@ For this public-data transcriptomic study, the safest submission strategy is:
 |---|---|---|
 | Manuscript DOCX | Main manuscript file | Ready locally |
 | Main figures | Separate figure files if requested by journal | Ready locally |
+| Supplementary Figure S1 | Supplementary figure file | Ready locally |
 | Supplementary Tables S1-S16 | Supplementary files, preferably CSV or one XLSX workbook | Ready locally as CSV |
 | Supplementary table index | Supplementary file or first sheet of XLSX workbook | Ready locally |
 | Data availability statement | Manuscript Declarations section | Ready with GitHub repository URL |

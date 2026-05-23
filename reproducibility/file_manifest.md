@@ -1,6 +1,6 @@
 # File Manifest
 
-This manifest links the manuscript figures and tables to their source scripts and result files.
+This manifest links manuscript figures, tables, supplementary files, and source scripts.
 
 ## Manuscript Files
 
@@ -14,13 +14,19 @@ This manifest links the manuscript figures and tables to their source scripts an
 
 | Figure | Current file | Source script |
 |---|---|---|
-| Figure 1 | `03_图件总审查/main_figure_candidates/Figure1_global_scRNA_atlas_manual_celltypes_candidate.png` | `scripts/05_apply_manual_celltype_labels.R` |
-| Figure 2 | `03_图件总审查/main_figure_candidates/Figure2_NPC_subtypes_mild_vs_severe_candidate.png` | `scripts/08_finalize_npc_names_and_ferroptosis_plots.R` |
-| Figure 3 | `03_图件总审查/main_figure_candidates/Figure3_ferroptosis_scores_candidate.png` | `scripts/09_ferroptosis_driver_suppressor_scores.R` |
-| Figure 4 | `03_图件总审查/main_figure_candidates/Figure4_DEG_enrichment_candidate.png` | `scripts/10_deg_and_enrichment_fig2f.R` |
-| Figure 5 | `01_外部bulk验证/figures/Figure5_external_bulk_module_validation_main_candidate.png` | `scripts/18_external_bulk_combined_figure5.R` |
-| Figure 6 | `05_伪时序分析/figures/56_npc_slingshot_main_Figure6_candidate.png` | `scripts/22_slingshot_pseudotime.R` |
-| Figure 7 | `06_细胞通讯分析/figures/63_npc_cellchat_main_Figure7_candidate.png` | `scripts/23_cellchat_npc_communication.R` |
+| Figure 1 | `03_figure_review/main_figure_candidates/Figure1_global_scRNA_atlas_manual_celltypes_candidate.png` | `scripts/05_apply_manual_celltype_labels.R` |
+| Figure 2 | `03_figure_review/main_figure_candidates/Figure2_NPC_subtypes_mild_vs_severe_candidate.png` | `scripts/08_finalize_npc_names_and_ferroptosis_plots.R` |
+| Figure 3 | `03_figure_review/main_figure_candidates/Figure3_ferroptosis_scores_candidate.png` | `scripts/09_ferroptosis_driver_suppressor_scores.R` |
+| Figure 4 | `03_figure_review/main_figure_candidates/Figure4_DEG_enrichment_candidate.png` | `scripts/10_deg_and_enrichment_fig2f.R` |
+| Figure 5 | `01_external_bulk_validation/figures/Figure5_external_bulk_module_validation_main_candidate.png` | `scripts/18_external_bulk_combined_figure5.R` |
+| Figure 6 | `05_pseudotime_analysis/figures/56_npc_slingshot_main_Figure6_candidate.png` | `scripts/22_slingshot_pseudotime.R` |
+| Figure 7 | `06_cellchat_analysis/figures/63_npc_cellchat_main_Figure7_candidate.png` | `scripts/23_cellchat_npc_communication.R`; refined by `scripts/27_refine_cellchat_figure7_and_supplement.R` |
+
+## Supplementary Figures
+
+| Supplementary figure | Current file | Source script |
+|---|---|---|
+| Supplementary Figure S1 | `08_BMC_submission/supplementary_figures/Supplementary_Figure_S1_CellChat_supporting_outputs.png` | `scripts/27_refine_cellchat_figure7_and_supplement.R` |
 
 ## Main Tables
 
@@ -36,7 +42,11 @@ The curated supplementary table package is located at:
 
 `08_BMC_submission/supplementary_tables`
 
-See:
+Preferred single-file upload:
+
+`08_BMC_submission/supplementary_tables/Supplementary_Tables_S1_S16.xlsx`
+
+See also:
 
 `08_BMC_submission/supplementary_tables/Supplementary_Table_Index.md`
 

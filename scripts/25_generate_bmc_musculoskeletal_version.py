@@ -130,7 +130,7 @@ figure_legends = {
     "Figure 4": "Subtype-resolved differential expression and enrichment analysis highlighting matrix remodeling, collagen organization, adhesion signaling, and stress-response programs.",
     "Figure 5": "Exploratory external bulk validation in independent NP transcriptomes. GSE70362 was the main external dataset; GSE147383 was used only as a small supportive trend dataset.",
     "Figure 6": "Slingshot trajectory analysis suggesting a transcriptional continuum from homeostatic/regulatory-like NPC states toward fibro-remodeling NPC states.",
-    "Figure 7": "Exploratory CellChat analysis suggesting redistribution of inferred NPC-NPC communication centered on Fibro-NPCs and Fibro-reg NPCs.",
+    "Figure 7": "Exploratory CellChat analysis suggesting ECM-centered redistribution of inferred NPC-NPC communication. The main panel summarizes severe-minus-mild communication strength, subtype-level incoming and outgoing communication weights, and severe-enhanced pathways. Full count/weight heatmaps and selected severe-enhanced ligand-receptor pairs are provided in Supplementary Figure S1.",
 }
 
 abstract = {

@@ -4,11 +4,11 @@ This workflow records the script order used to generate the current manuscript f
 
 Project root:
 
-Run all commands from the repository root after cloning or downloading this repository.
+`C:\Users\Administrator\Documents\New project 2\idd_scRNA_reproduction`
 
 Rscript:
 
-Use R 4.4.1 or a compatible recent R version. The original analysis used R 4.4.1 on Windows 11; selected package versions are listed in `software_versions_sessionInfo.txt`.
+`E:\R\R-4.4.1\bin\Rscript.exe`
 
 ## Stage 1. Main GSE165722 scRNA-seq Processing
 
@@ -46,6 +46,7 @@ Use R 4.4.1 or a compatible recent R version. The original analysis used R 4.4.1
 | 15 | `scripts/21_exploratory_pseudotime_mst.R` | Exploratory MST pseudotime | MST pseudotime tables and figures |
 | 16 | `scripts/22_slingshot_pseudotime.R` | Slingshot pseudotime and module trends | Figure 6 source; Slingshot tables |
 | 17 | `scripts/23_cellchat_npc_communication.R` | Exploratory CellChat communication inference | Figure 7 source; CellChat tables |
+| 17b | `scripts/27_refine_cellchat_figure7_and_supplement.R` | Refine CellChat figure package without rerunning CellChat inference | Simplified main Figure 7 and Supplementary Figure S1 |
 
 ## Stage 5. Manuscript and Supplementary Materials
 
