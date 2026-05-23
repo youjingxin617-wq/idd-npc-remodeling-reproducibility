@@ -4,7 +4,13 @@
 
 The datasets analyzed in this study are publicly available from the Gene Expression Omnibus. The main single-cell RNA-seq dataset was GSE165722. External bulk transcriptomic datasets included GSE70362 and GSE147383. Ferroptosis-related driver and suppressor gene sets were obtained from FerrDb. No new human specimens were collected for this study.
 
-Analysis scripts, processed result tables, and figure-generation code should be deposited in a public repository before submission or upon acceptance. Until a public repository is created, this statement should not claim that code is already publicly available.
+Analysis scripts, processed result tables, supplementary tables, and software/session information are available at:
+
+https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility
+
+Recommended manuscript wording:
+
+> The datasets analyzed in this study are publicly available from the Gene Expression Omnibus, including GSE165722, GSE70362, and GSE147383. FerrDb-derived ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, supplementary tables, and software/session information are available at https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
 
 ## Public Data Sources
 
@@ -14,6 +20,12 @@ Analysis scripts, processed result tables, and figure-generation code should be 
 | GSE70362 | Main external bulk NP support dataset | GEO | Used for low-grade vs high-grade NP module score comparison |
 | GSE147383 | Small supportive bulk NP trend dataset | GEO | Used only as direction-level supportive evidence because sample size is small |
 | FerrDb | Ferroptosis driver/suppressor gene sets | FerrDb database | Used for transcriptomic gene-set scoring, not for proving ferroptotic cell death |
+
+## Code And Processed Results Repository
+
+| Resource | URL | Contents |
+|---|---|---|
+| GitHub repository | https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility | Analysis scripts, processed result tables, supplementary tables, reproducibility documentation, and software/session information |
 
 ## Files Not Recommended For Journal Upload
 

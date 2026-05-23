@@ -17,7 +17,9 @@ The package is intended for:
 
 ## Current Status
 
-This is a reproducibility preparation package, not yet a public repository release.
+This is a reproducibility preparation package linked to the public GitHub repository:
+
+https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility
 
 The manuscript analysis is currently based on:
 
@@ -55,8 +57,10 @@ Recommended manuscript wording:
 
 > The public datasets analyzed in this study are available from the Gene Expression Omnibus under accession numbers GSE165722, GSE70362, and GSE147383. Analysis scripts, processed result tables, and figure-generation code will be made available in a public repository upon acceptance or before submission.
 
-Use stronger wording only after the repository is actually created.
+Updated wording after repository creation:
+
+> The datasets analyzed in this study are publicly available from the Gene Expression Omnibus, including GSE165722, GSE70362, and GSE147383. FerrDb-derived ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, supplementary tables, and software/session information are available at https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
 
 ## Current Practical Decision
 
-For this manuscript, reproducibility materials should be prepared before submission. The journal-facing upload should include the supplementary tables and the Data availability statement. The code-facing materials should be deposited in a public repository or kept ready for immediate release during review.
+For this manuscript, reproducibility materials should be prepared before submission. The journal-facing upload should include the supplementary tables and the Data availability statement. The code-facing materials are now available in the public repository above.

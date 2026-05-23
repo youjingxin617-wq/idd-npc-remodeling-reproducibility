@@ -23,7 +23,7 @@ For this public-data transcriptomic study, the safest submission strategy is:
 | Main figures | Separate figure files if requested by journal | Ready locally |
 | Supplementary Tables S1-S16 | Supplementary files, preferably CSV or one XLSX workbook | Ready locally as CSV |
 | Supplementary table index | Supplementary file or first sheet of XLSX workbook | Ready locally |
-| Data availability statement | Manuscript Declarations section | Drafted; needs repository link if available |
+| Data availability statement | Manuscript Declarations section | Ready with GitHub repository URL |
 | Author contributions, funding, competing interests | Manuscript Declarations section | Still needs author input |
 
 ## Deposit In Repository
@@ -54,8 +54,8 @@ The datasets analyzed in this study are publicly available from the Gene Express
 
 ## Recommended Wording After Repository Exists
 
-The datasets analyzed in this study are publicly available from the Gene Expression Omnibus under accession numbers GSE165722, GSE70362, and GSE147383. Ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, figure-generation code, and software/session information are available at: [repository URL]. If a Zenodo DOI is created for the repository release, cite the DOI in the reference list.
+The datasets analyzed in this study are publicly available from the Gene Expression Omnibus under accession numbers GSE165722, GSE70362, and GSE147383. Ferroptosis-related gene sets were obtained from FerrDb. Analysis scripts, processed result tables, supplementary tables, and software/session information are available at: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility. If a Zenodo DOI is created for the repository release, cite the DOI in the reference list.
 
 ## Practical Recommendation For This Manuscript
 
-Prepare the repository before formal submission if possible. This reduces reviewer concern because the manuscript is a secondary public-data reanalysis. If the repository cannot be finalized immediately, keep the manuscript wording conservative and update the link before acceptance.
+The public repository has been created. Use the GitHub URL in the manuscript now; optionally replace or supplement it with a Zenodo DOI after a release is archived.

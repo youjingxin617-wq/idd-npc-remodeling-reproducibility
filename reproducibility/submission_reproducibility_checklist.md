@@ -15,7 +15,7 @@
 
 ## Still Needed Before Submission
 
-- [ ] Decide whether to create a public GitHub repository before submission.
+- [x] Public GitHub repository created: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
 - [ ] Add a license file if scripts are shared publicly.
 - [ ] Add a repository-level `README.md` that matches the final manuscript title.
 - [ ] Remove or ignore large raw and processed data files before public upload.
@@ -40,7 +40,7 @@ For formal journal submission:
 2. Main figures as separate high-resolution files if required.
 3. Supplementary tables as CSV or Excel. Current recommended file: `08_BMC_submission/supplementary_tables/Supplementary_Tables_S1_S16.xlsx`.
 4. Data availability statement in the manuscript.
-5. Repository link if ready.
+5. Repository link: https://github.com/youjingxin617-wq/idd-npc-remodeling-reproducibility.
 
 ## Caution
 
